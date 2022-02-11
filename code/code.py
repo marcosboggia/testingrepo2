@@ -4,4 +4,5 @@ def sum_numbers(a, b):
 def another_function(message):
     print(message)
 
-    
+def function1():
+    return None
